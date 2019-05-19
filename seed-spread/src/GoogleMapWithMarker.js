@@ -51,6 +51,21 @@ const GoogleMapComponentWithMarker = withScriptjs(
           )
         }
       />
+      <Marker
+        icon={LocationIcon}
+        position={{
+          lat: 46.052093, // latitude for the center of the map
+          lng: 14.514411 // longitude to position the marker
+        }}
+        onClick={(message, link, lang, lat) =>
+          props.handleMarkerClick(
+            'Read more for this location:',
+            '/second',
+            46.052093,
+            14.514411
+          )
+        }
+      />
 
       {props.isInfoboxVisible && (
         <InfoWindow

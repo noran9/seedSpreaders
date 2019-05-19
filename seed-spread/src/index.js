@@ -2,6 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import App from './App';
 import Location from './Single'
+import Location2 from './Second'
 import Main from "./Main"
 import Header from './Header'
 import Garden from './Gardens'
@@ -18,6 +19,7 @@ class RouterNavigationSample extends React.Component {
       	<>
           <Route exact path="/" component={App} />
           <Route path="/single" component={Location} />
+          <Route path="/second" component={Location2} />
           <Route path="/main" component={Garden} />
           <Route path="/community" component={Community} />
           <Route path="/donation" component={Donation} />
