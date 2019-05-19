@@ -17,7 +17,7 @@ class Location2 extends React.Component {
 				<p className="lead">Check out all information for location: </p>
 				<h2>Bee Hive University of Ljubljana</h2><br/>
 	      	<div className="row container">
-				<div className="col-6">
+				<div className="col-5">
 					<p className="lead">Historical satellite view (2016-05-18): </p>
 					<img src="http://services.sentinel-hub.com/ogc/wms/5ba3f65c-2d71-45fd-9dcb-2f3a27d1b4b3?REQUEST=GetMap&BBOX=4605365,1449415,4610365,1455415&LAYERS=TRUE_COLOR&MAXCC=20&WIDTH=320&HEIGHT=320&FORMAT=image/jpeg&TIME=2016-05-18"/>
 		  		</div>
@@ -25,7 +25,7 @@ class Location2 extends React.Component {
 		  			<p className="lead">Current satellite view: </p>
 		  			<img src="http://services.sentinel-hub.com/ogc/wms/5ba3f65c-2d71-45fd-9dcb-2f3a27d1b4b3?REQUEST=GetMap&BBOX=4605365,1449415,4610365,1455415&LAYERS=AGRICULTURE&MAXCC=20&WIDTH=320&HEIGHT=320&FORMAT=image/jpeg&TIME=2019-05-18"/>
 		  		</div>
-		  		<div className="col-2">
+		  		<div className="col-3">
 		  			<p className="lead">List of planted flowers: </p>
 		  			<ul className="list-group bg-dark">
 		  				<li className="list-group-item bg-dark text-light">Marigolds</li>
