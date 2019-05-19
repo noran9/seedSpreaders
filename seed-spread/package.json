@@ -2,6 +2,7 @@
   "name": "seed-spread",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://spreadyourseeds.com/",
   "dependencies": {
     "@google/earthengine": "^0.1.175",
     "react": "^16.8.6",
