@@ -23,10 +23,10 @@ function Header(){
               <Link to='/main' className="nav-link">Gardens</Link>
             </li>
             <li className="nav-item">
-              <a className="nav-link" href="/community">Community</a>
+              <Link to="/community" className="nav-link">Community</Link>
             </li>
             <li className="nav-item">
-              <a className="nav-link" href="/donation">Donate</a>
+              <Link to="/donation" className="nav-link">Donate</Link>
             </li>
           </ul>
         </div>
