@@ -1,4 +1,5 @@
 import React from 'react'
+import { BrowserRouter as Router, Route, Link } from "react-router-dom";
 
 function Header(){
 	return(
@@ -9,23 +10,23 @@ function Header(){
 			<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossOrigin="anonymous"></script>
 
 			 <nav className="navbar navbar-expand navbar-dark fixed-top bg-dark">
-        <a className="navbar-brand" href="#">Bee More</a>
+        <Link to='/' className="navbar-brand">Bee More</Link>
         <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
           <span className="navbar-toggler-icon" />
         </button>
         <div className="collapse navbar-collapse" id="navbarCollapse">
           <ul className="navbar-nav mr-auto">
             <li className="nav-item active">
-              <a className="nav-link" href="#">Home <span className="sr-only">(current)</span></a>
+              <Link to='/' className="nav-link" >Home</Link><span className="sr-only">(current)</span>
             </li>
             <li className="nav-item">
-              <a className="nav-link" href="#">Gardens</a>
+              <Link to='/main' className="nav-link">Gardens</Link>
             </li>
             <li className="nav-item">
-              <a className="nav-link" href="#">Information</a>
+              <a className="nav-link" href="/community">Community</a>
             </li>
             <li className="nav-item">
-              <a className="nav-link" href="#">Donate</a>
+              <a className="nav-link" href="/donation">Donate</a>
             </li>
           </ul>
         </div>

@@ -1,0 +1,2805 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:500,300|Montserrat:700,600,500,400');
+
+
+.desktophd {
+  width               : 100%;
+  min-width           : 1440px;
+  height              : 100vh;
+  min-height          : 5186px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color    : rgba(255, 255, 255, 1.0);
+}
+a {
+  text-decoration     : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.anima-full-width-a {
+  width               : 100%;
+}
+.anima-full-height-a {
+  height              : 100%;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.desktophd .rectangle {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 75px;
+  box-sizing          : border-box;
+  width               : 1440px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(150, 150, 150, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophd .logo {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 5px;
+  height              : 65px;
+  width               : 160px;
+  position            : absolute;
+  margin              : 0;
+  left                : 47px;
+  overflow            : hidden;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophd .logo .background {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 65px;
+  width               : 160px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophd .logo .hive {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 4px;
+  height              : 55px;
+  width               : 154px;
+  position            : absolute;
+  margin              : 0;
+  left                : 6px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophd .logo .hive .group1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 55px;
+  width               : 64px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophd .logo .hive .group1 .polygon {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 18px;
+  height              : 20px;
+  width               : 20px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophd .logo .hive .group1 .polygoncopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 20px;
+  width               : 20px;
+  position            : absolute;
+  margin              : 0;
+  left                : 11px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophd .logo .hive .group1 .polygoncopy2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 18px;
+  height              : 20px;
+  width               : 22px;
+  position            : absolute;
+  margin              : 0;
+  left                : 21px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophd .logo .hive .group1 .polygoncopy3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 20px;
+  width               : 22px;
+  position            : absolute;
+  margin              : 0;
+  left                : 33px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophd .logo .hive .group1 .polygoncopy4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 18px;
+  height              : 20px;
+  width               : 22px;
+  position            : absolute;
+  margin              : 0;
+  left                : 43px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophd .logo .hive .group1 .polygoncopy9 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 35px;
+  height              : 20px;
+  width               : 22px;
+  position            : absolute;
+  margin              : 0;
+  left                : 33px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophd .logo .hive .group1 .polygoncopy5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 35px;
+  height              : 20px;
+  width               : 22px;
+  position            : absolute;
+  margin              : 0;
+  left                : 10px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophd .logo .hive .beemore {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 5px;
+  height              : 43px;
+  width               : 87px;
+  position            : absolute;
+  margin              : 0;
+  left                : 69px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.desktophd .imgshadow {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 74px;
+  height              : 543px;
+  width               : 1440px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophd .imgshadow .img {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 543px;
+  width               : 1440px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophd .imgshadow .img .img1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 543px;
+  box-sizing          : border-box;
+  width               : 1440px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(150, 150, 150, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  object-fit          : cover;
+}
+.desktophd .imgshadow .img .shadow {
+  background-color    : rgba(0, 0, 0, 0.67);
+  top                 : 0px;
+  height              : 543px;
+  box-sizing          : border-box;
+  width               : 1440px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(150, 150, 150, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophd .imgshadow .plantyourowncontr {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 47px;
+  height              : auto;
+  width               : 1023px;
+  position            : absolute;
+  margin              : 0;
+  left                : 75px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 54.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 66.0px;
+}
+.desktophd .howitworks {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 702px;
+  height              : auto;
+  width               : 418px;
+  position            : absolute;
+  margin              : 0;
+  left                : 545px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 54.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 66.0px;
+}
+.desktophd .button {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 17px;
+  height              : 42px;
+  width               : 165px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1246px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophd .button .rectanglecopy {
+  background-color    : rgba(255, 196, 0, 1.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 165px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 21px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophd .button .dashboard {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 9px;
+  height              : 23px;
+  width               : 105px;
+  position            : absolute;
+  margin              : 0;
+  left                : 31px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 22.0px;
+}
+.desktophd .whyisitimportant {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2528px;
+  height              : auto;
+  width               : 630px;
+  position            : absolute;
+  margin              : 0;
+  left                : 720px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 49.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 59.0px;
+}
+.desktophd .whatcanyouplant {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1592px;
+  height              : auto;
+  width               : 630px;
+  position            : absolute;
+  margin              : 0;
+  left                : 454px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 54.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 66.0px;
+}
+.desktophd .withoutpollination {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2610px;
+  height              : auto;
+  width               : 704px;
+  position            : absolute;
+  margin              : 0;
+  left                : 717px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 27.0px;
+  color               : rgba(0, 0, 0, 0.53);
+  text-align          : left;
+  line-height         : 32.0px;
+}
+.desktophd .helpprojectbyplan {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1295px;
+  height              : auto;
+  width               : 352px;
+  position            : absolute;
+  margin              : 0;
+  left                : 67px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 34.0px;
+  color               : rgba(255, 200, 18, 1.0);
+  text-align          : center;
+  line-height         : 40.0px;
+}
+.desktophd .helpprojectbyplan .span1 {
+  
+}
+.desktophd .helpprojectbyplan .span2 {
+  color               : rgba(0, 0, 0, 0.53);
+}
+.desktophd .followtheprogress {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1295px;
+  height              : auto;
+  width               : 352px;
+  position            : absolute;
+  margin              : 0;
+  left                : 547px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 34.0px;
+  color               : rgba(255, 200, 18, 1.0);
+  text-align          : center;
+  line-height         : 40.0px;
+}
+.desktophd .followtheprogress .span1 {
+  
+}
+.desktophd .followtheprogress .span2 {
+  color               : rgba(0, 0, 0, 0.53);
+}
+.desktophd .undrawflowersvx06 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 940px;
+  height              : 314px;
+  width               : 452px;
+  position            : absolute;
+  margin              : 0;
+  left                : 509px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophd .getrewardedenjoys {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1295px;
+  height              : auto;
+  width               : 352px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1029px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 34.0px;
+  color               : rgba(255, 196, 0, 1.0);
+  text-align          : center;
+  line-height         : 40.0px;
+}
+.desktophd .getrewardedenjoys .span1 {
+  
+}
+.desktophd .getrewardedenjoys .span2 {
+  color               : rgba(0, 0, 0, 0.53);
+}
+.desktophd .manyspheresofour {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 345px;
+  height              : auto;
+  width               : 1211px;
+  position            : absolute;
+  margin              : 0;
+  left                : 68px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 300;
+  font-style          : normal;
+  font-size           : 39.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 34.0px;
+}
+.desktophd .manyspheresofour .span1 {
+  text-align          : justify;
+  line-height         : 46.0px;
+}
+.desktophd .manyspheresofour .span2 {
+  font-size           : 34.0px;
+  text-align          : justify;
+  line-height         : 40.0px;
+}
+.desktophd .crocuscard {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1745px;
+  height              : 461px;
+  width               : 402px;
+  position            : absolute;
+  margin              : 0;
+  left                : -8px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophd .crocuscard .rectanglecopy4 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 461px;
+  box-sizing          : border-box;
+  width               : 325px;
+  position            : absolute;
+  margin              : 0;
+  left                : 53px;
+  border-radius       : 34px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(150, 150, 150, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophd .crocuscard .crocuscopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 59px;
+  height              : 268px;
+  width               : 402px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.83;
+}
+.desktophd .crocuscard .crocus {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 8px;
+  height              : auto;
+  width               : 163px;
+  position            : absolute;
+  margin              : 0;
+  left                : 136px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 21.0px;
+  color               : rgba(255, 196, 0, 1.0);
+  text-align          : left;
+  line-height         : 21.0px;
+}
+.desktophd .crocuscard .crocus .span1 {
+  text-align          : justify;
+  line-height         : 25.0px;
+}
+.desktophd .crocuscard .crocus .span2 {
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 34.0px;
+  text-align          : justify;
+  line-height         : 42.0px;
+}
+.desktophd .crocuscard .crocus .span3 {
+  text-align          : justify;
+  line-height         : 25.0px;
+}
+.desktophd .crocuscard .buttoncopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 406px;
+  height              : 42px;
+  width               : 205px;
+  position            : absolute;
+  margin              : 0;
+  left                : 113px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophd .crocuscard .buttoncopy .rectanglecopy {
+  background-color    : rgba(255, 196, 0, 1.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 205px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 21px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophd .crocuscard .buttoncopy .letsplantit {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 10px;
+  height              : 23px;
+  width               : 126px;
+  position            : absolute;
+  margin              : 0;
+  left                : 41px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 22.0px;
+}
+.desktophd .crocuscard .thebestsolutionsfcopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 307px;
+  height              : auto;
+  width               : 261px;
+  position            : absolute;
+  margin              : 0;
+  left                : 85px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 21.0px;
+  color               : rgba(215, 215, 215, 1.0);
+  text-align          : center;
+  line-height         : 25.0px;
+}
+.desktophd .crocuscardcopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1708px;
+  height              : 498px;
+  width               : 325px;
+  position            : absolute;
+  margin              : 0;
+  left                : 736px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophd .crocuscardcopy .rectanglecopy4 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 37px;
+  height              : 461px;
+  box-sizing          : border-box;
+  width               : 325px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 34px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(150, 150, 150, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophd .crocuscardcopy .lilac {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 45px;
+  height              : auto;
+  width               : 124px;
+  position            : absolute;
+  margin              : 0;
+  left                : 102px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 21.0px;
+  color               : rgba(255, 196, 0, 1.0);
+  text-align          : left;
+  line-height         : 21.0px;
+}
+.desktophd .crocuscardcopy .lilac .span1 {
+  text-align          : justify;
+  line-height         : 25.0px;
+}
+.desktophd .crocuscardcopy .lilac .span2 {
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 34.0px;
+  text-align          : justify;
+  line-height         : 42.0px;
+}
+.desktophd .crocuscardcopy .lilac .span3 {
+  text-align          : justify;
+  line-height         : 25.0px;
+}
+.desktophd .crocuscardcopy .siren {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 363px;
+  width               : 242px;
+  position            : absolute;
+  margin              : 0;
+  left                : 42px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophd .crocuscardcopy .spring1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 102px;
+  height              : 85px;
+  width               : 57px;
+  position            : absolute;
+  margin              : 0;
+  left                : 235px;
+  overflow            : hidden;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophd .crocuscardcopy .spring1 .background {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 85px;
+  width               : 57px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophd .crocuscardcopy .spring1 .spring2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 16px;
+  height              : 69px;
+  width               : 57px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophd .crocuscardcopy .spring1 .spring2 .spring3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 27px;
+  height              : auto;
+  width               : 59px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 21.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 14.0px;
+}
+.desktophd .crocuscardcopy .spring1 .spring2 .spring3 .span1 {
+  text-align          : justify;
+  line-height         : 25.0px;
+}
+.desktophd .crocuscardcopy .spring1 .spring2 .spring3 .span2 {
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : justify;
+  line-height         : 18.0px;
+}
+.desktophd .crocuscardcopy .spring1 .spring2 .spring3 .span3 {
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 34.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : justify;
+  line-height         : 42.0px;
+}
+.desktophd .crocuscardcopy .spring1 .spring2 .sun {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 37px;
+  width               : 51px;
+  position            : absolute;
+  margin              : 0;
+  left                : 4px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophd .crocuscardcopy .spring1 .spring2 .sun .oval {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 18px;
+  width               : 19px;
+  position            : absolute;
+  margin              : 0;
+  left                : 16px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophd .crocuscardcopy .spring1 .spring2 .sun .rectanglecopy2 {
+  background-color    : rgba(255, 237, 0, 1.0);
+  top                 : 15px;
+  height              : 6px;
+  width               : 16px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 3px;
+  -ms-transform       : rotate(-45deg); /* IE 9 */
+  -webkit-transform   : rotate(-45deg); /* Chrome, Safari, Opera */
+  transform           : rotate(-45deg);
+}
+.desktophd .crocuscardcopy .spring1 .spring2 .sun .rectanglecopy6 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 15px;
+  height              : 6px;
+  width               : 16px;
+  position            : absolute;
+  margin              : 0;
+  left                : 35px;
+  -ms-transform       : rotate(45deg); /* IE 9 */
+  -webkit-transform   : rotate(45deg); /* Chrome, Safari, Opera */
+  transform           : rotate(45deg);
+}
+.desktophd .crocuscardcopy .spring1 .spring2 .sun .rectanglecopy8 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 23px;
+  height              : 6px;
+  width               : 16px;
+  position            : absolute;
+  margin              : 0;
+  left                : 28px;
+  -ms-transform       : rotate(64deg); /* IE 9 */
+  -webkit-transform   : rotate(64deg); /* Chrome, Safari, Opera */
+  transform           : rotate(64deg);
+}
+.desktophd .crocuscardcopy .spring1 .spring2 .sun .rectanglecopy9 {
+  background-color    : rgba(255, 237, 0, 1.0);
+  top                 : 23px;
+  height              : 6px;
+  width               : 16px;
+  position            : absolute;
+  margin              : 0;
+  left                : 7px;
+  border-radius       : 3px;
+  -ms-transform       : rotate(-64deg); /* IE 9 */
+  -webkit-transform   : rotate(-64deg); /* Chrome, Safari, Opera */
+  transform           : rotate(-64deg);
+}
+.desktophd .crocuscardcopy .spring1 .spring2 .sun .rectanglecopy7 {
+  background-color    : rgba(255, 237, 0, 1.0);
+  top                 : 26px;
+  height              : 6px;
+  width               : 16px;
+  position            : absolute;
+  margin              : 0;
+  left                : 18px;
+  border-radius       : 3px;
+  -ms-transform       : rotate(90deg); /* IE 9 */
+  -webkit-transform   : rotate(90deg); /* Chrome, Safari, Opera */
+  transform           : rotate(90deg);
+}
+.desktophd .crocuscardcopy .spring1 .cloud {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 29px;
+  width               : 51px;
+  position            : absolute;
+  margin              : 0;
+  left                : 3px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophd .crocuscardcopy .spring1 .cloud .rectanglecopy3 {
+  background-color    : rgba(112, 112, 112, 1.0);
+  top                 : 13px;
+  height              : 15px;
+  width               : 49px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  border-radius       : 7px;
+  -ms-transform       : rotate(-1deg); /* IE 9 */
+  -webkit-transform   : rotate(-1deg); /* Chrome, Safari, Opera */
+  transform           : rotate(-1deg);
+}
+.desktophd .crocuscardcopy .spring1 .cloud .oval {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 3px;
+  height              : 17px;
+  width               : 19px;
+  position            : absolute;
+  margin              : 0;
+  left                : 6px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophd .crocuscardcopy .spring1 .cloud .ovalcopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 15px;
+  width               : 15px;
+  position            : absolute;
+  margin              : 0;
+  left                : 17px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophd .crocuscardcopy .spring1 .cloud .ovalcopy2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 6px;
+  height              : 15px;
+  width               : 15px;
+  position            : absolute;
+  margin              : 0;
+  left                : 27px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophd .crocuscardcopy .buttoncopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 443px;
+  height              : 42px;
+  width               : 205px;
+  position            : absolute;
+  margin              : 0;
+  left                : 60px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophd .crocuscardcopy .buttoncopy .rectanglecopy {
+  background-color    : rgba(255, 196, 0, 1.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 205px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 21px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophd .crocuscardcopy .buttoncopy .letsplantit {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 10px;
+  height              : 23px;
+  width               : 126px;
+  position            : absolute;
+  margin              : 0;
+  left                : 41px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 22.0px;
+}
+.desktophd .crocuscardcopy .lilacsgiveoffasw {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 343px;
+  height              : auto;
+  width               : 261px;
+  position            : absolute;
+  margin              : 0;
+  left                : 33px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 21.0px;
+  color               : rgba(215, 215, 215, 1.0);
+  text-align          : center;
+  line-height         : 25.0px;
+}
+.desktophd .crocuscardcopy2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1743px;
+  height              : 461px;
+  width               : 325px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1094px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophd .crocuscardcopy2 .rectanglecopy4 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 461px;
+  box-sizing          : border-box;
+  width               : 325px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 34px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(150, 150, 150, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophd .crocuscardcopy2 .buttoncopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 406px;
+  height              : 42px;
+  width               : 205px;
+  position            : absolute;
+  margin              : 0;
+  left                : 60px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophd .crocuscardcopy2 .buttoncopy .rectanglecopy {
+  background-color    : rgba(255, 196, 0, 1.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 205px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 21px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophd .crocuscardcopy2 .buttoncopy .letsplantit {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 10px;
+  height              : 23px;
+  width               : 126px;
+  position            : absolute;
+  margin              : 0;
+  left                : 41px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 22.0px;
+}
+.desktophd .crocuscardcopy2 .itu2019sbasicallyanec {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 307px;
+  height              : auto;
+  width               : 261px;
+  position            : absolute;
+  margin              : 0;
+  left                : 32px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 21.0px;
+  color               : rgba(215, 215, 215, 1.0);
+  text-align          : center;
+  line-height         : 25.0px;
+}
+.desktophd .marigold {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1745px;
+  height              : 461px;
+  width               : 971px;
+  position            : absolute;
+  margin              : 0;
+  left                : 389px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophd .marigold .rectanglecopy4 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 461px;
+  box-sizing          : border-box;
+  width               : 325px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 34px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(150, 150, 150, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophd .marigold .calendula {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12px;
+  height              : auto;
+  width               : 185px;
+  position            : absolute;
+  margin              : 0;
+  left                : 71px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 34.0px;
+  color               : rgba(255, 196, 0, 1.0);
+  text-align          : left;
+  line-height         : 42.0px;
+}
+.desktophd .marigold .calendula .span1 {
+  text-align          : justify;
+}
+.desktophd .marigold .calendula .span2 {
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : justify;
+}
+.desktophd .marigold .sunflower1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12px;
+  height              : auto;
+  width               : 185px;
+  position            : absolute;
+  margin              : 0;
+  left                : 788px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 34.0px;
+  color               : rgba(255, 196, 0, 1.0);
+  text-align          : left;
+  line-height         : 42.0px;
+}
+.desktophd .marigold .buttoncopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 406px;
+  height              : 42px;
+  width               : 205px;
+  position            : absolute;
+  margin              : 0;
+  left                : 60px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophd .marigold .buttoncopy .rectanglecopy {
+  background-color    : rgba(255, 196, 0, 1.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 205px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 21px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophd .marigold .buttoncopy .letsplantit {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 10px;
+  height              : 23px;
+  width               : 126px;
+  position            : absolute;
+  margin              : 0;
+  left                : 41px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 22.0px;
+}
+.desktophd .marigold .theydifferwithlon {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 306px;
+  height              : auto;
+  width               : 288px;
+  position            : absolute;
+  margin              : 0;
+  left                : 30px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 21.0px;
+  color               : rgba(215, 215, 215, 1.0);
+  text-align          : left;
+  line-height         : 25.0px;
+}
+.desktophd .undrawbeforedawnbqrj {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2479px;
+  height              : 403px;
+  width               : 635px;
+  position            : absolute;
+  margin              : 0;
+  left                : 7px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophd .whatareyougetting {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 3531px;
+  height              : auto;
+  width               : 672px;
+  position            : absolute;
+  margin              : 0;
+  left                : 686px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 49.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 59.0px;
+}
+.desktophd .chooseyourcontribu {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 4145px;
+  height              : auto;
+  width               : 774px;
+  position            : absolute;
+  margin              : 0;
+  left                : 343px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 54.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 66.0px;
+}
+.desktophd .rewardsthatyouwil {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 3622px;
+  height              : auto;
+  width               : 704px;
+  position            : absolute;
+  margin              : 0;
+  left                : 686px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 27.0px;
+  color               : rgba(0, 0, 0, 0.53);
+  text-align          : left;
+  line-height         : 32.0px;
+}
+.desktophd .whatisthetechnolo {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 3004px;
+  height              : auto;
+  width               : 704px;
+  position            : absolute;
+  margin              : 0;
+  left                : 61px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 49.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 59.0px;
+}
+.desktophd .weareusingsatelli {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 3095px;
+  height              : auto;
+  width               : 704px;
+  position            : absolute;
+  margin              : 0;
+  left                : 61px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 27.0px;
+  color               : rgba(0, 0, 0, 0.53);
+  text-align          : left;
+  line-height         : 32.0px;
+}
+.desktophd .undrawgardeningj8jx {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 899px;
+  height              : 357px;
+  width               : 498px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophd .undrawgift1sgf8 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 890px;
+  height              : 375px;
+  width               : 427px;
+  position            : absolute;
+  margin              : 0;
+  left                : 991px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophd .crocuscardcopy4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 4317px;
+  height              : 500px;
+  width               : 358px;
+  position            : absolute;
+  margin              : 0;
+  left                : 192px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophd .crocuscardcopy4 .rectanglecopy4 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 500px;
+  box-sizing          : border-box;
+  width               : 358px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 34px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(150, 150, 150, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophd .crocuscardcopy4 .seed {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 30px;
+  height              : auto;
+  width               : 142px;
+  position            : absolute;
+  margin              : 0;
+  left                : 109px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 21.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 21.0px;
+}
+.desktophd .crocuscardcopy4 .seed .span1 {
+  text-align          : justify;
+  line-height         : 25.0px;
+}
+.desktophd .crocuscardcopy4 .seed .span2 {
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 34.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : justify;
+  line-height         : 42.0px;
+}
+.desktophd .crocuscardcopy4 .seed .span3 {
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 34.0px;
+  color               : rgba(255, 196, 0, 1.0);
+  text-align          : justify;
+  line-height         : 42.0px;
+  text-decoration     : underline;
+}
+.desktophd .crocuscardcopy4 .seed .span4 {
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 34.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : justify;
+  line-height         : 42.0px;
+}
+.desktophd .crocuscardcopy4 .buttoncopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 403px;
+  height              : 63px;
+  width               : 257px;
+  position            : absolute;
+  margin              : 0;
+  left                : 51px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophd .crocuscardcopy4 .buttoncopy .rectanglecopy {
+  background-color    : rgba(255, 196, 0, 1.0);
+  top                 : 0px;
+  height              : 63px;
+  width               : 257px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 31px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophd .crocuscardcopy4 .buttoncopy .a499u20acmonth {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 14px;
+  height              : 35px;
+  width               : 172px;
+  position            : absolute;
+  margin              : 0;
+  left                : 44px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 21.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.desktophd .crocuscardcopy4 .buttoncopy .a499u20acmonth .span1 {
+  text-align          : justify;
+  line-height         : 25.0px;
+}
+.desktophd .crocuscardcopy4 .buttoncopy .a499u20acmonth .span2 {
+  font-size           : 18.0px;
+  text-align          : justify;
+  line-height         : 22.0px;
+}
+.desktophd .crocuscardcopy4 .buttoncopy .a499u20acmonth .span3 {
+  text-align          : justify;
+  line-height         : 25.0px;
+}
+.desktophd .crocuscardcopy4 .group3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 95px;
+  height              : 246px;
+  width               : 241px;
+  position            : absolute;
+  margin              : 0;
+  left                : 50px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophd .crocuscardcopy4 .group3 .savedworld {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 243px;
+  position            : absolute;
+  margin              : 0;
+  left                : -1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 21.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 25.0px;
+}
+.desktophd .crocuscardcopy4 .group3 .a1m262toplant {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 54px;
+  height              : auto;
+  width               : 243px;
+  position            : absolute;
+  margin              : 0;
+  left                : -1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 21.0px;
+  color               : rgba(0, 0, 0, 0.83);
+  text-align          : center;
+  line-height         : 25.0px;
+}
+.desktophd .crocuscardcopy4 .group3 .monthlyreport {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 108px;
+  height              : auto;
+  width               : 243px;
+  position            : absolute;
+  margin              : 0;
+  left                : -1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 21.0px;
+  color               : rgba(0, 0, 0, 0.83);
+  text-align          : center;
+  line-height         : 25.0px;
+}
+.desktophd .crocuscardcopy4 .group3 .u2014 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 162px;
+  height              : auto;
+  width               : 243px;
+  position            : absolute;
+  margin              : 0;
+  left                : -1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 21.0px;
+  color               : rgba(0, 0, 0, 0.83);
+  text-align          : center;
+  line-height         : 25.0px;
+}
+.desktophd .crocuscardcopy4 .group3 .u2014copy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 216px;
+  height              : 30px;
+  width               : 241px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophd .crocuscardcopy6 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 4317px;
+  height              : 514px;
+  width               : 369px;
+  position            : absolute;
+  margin              : 0;
+  left                : 858px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophd .crocuscardcopy6 .rectanglecopy4 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 514px;
+  box-sizing          : border-box;
+  width               : 369px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 34px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(150, 150, 150, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophd .crocuscardcopy6 .flower {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 24px;
+  height              : auto;
+  width               : 194px;
+  position            : absolute;
+  margin              : 0;
+  left                : 116px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 21.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 21.0px;
+}
+.desktophd .crocuscardcopy6 .flower .span1 {
+  text-align          : justify;
+  line-height         : 25.0px;
+}
+.desktophd .crocuscardcopy6 .flower .span2 {
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 34.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : justify;
+  line-height         : 42.0px;
+}
+.desktophd .crocuscardcopy6 .flower .span3 {
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 34.0px;
+  color               : rgba(255, 196, 0, 1.0);
+  text-align          : justify;
+  line-height         : 42.0px;
+  text-decoration     : underline;
+}
+.desktophd .crocuscardcopy6 .flower .span4 {
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 34.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : justify;
+  line-height         : 42.0px;
+}
+.desktophd .crocuscardcopy5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 4266px;
+  height              : 606px;
+  width               : 386px;
+  position            : absolute;
+  margin              : 0;
+  left                : 510px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophd .crocuscardcopy5 .rectanglecopy4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 606px;
+  width               : 386px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophd .crocuscardcopy5 .sprout {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 37px;
+  height              : auto;
+  width               : 147px;
+  position            : absolute;
+  margin              : 0;
+  left                : 118px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 21.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 21.0px;
+}
+.desktophd .crocuscardcopy5 .sprout .span1 {
+  text-align          : justify;
+  line-height         : 25.0px;
+}
+.desktophd .crocuscardcopy5 .sprout .span2 {
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 34.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : justify;
+  line-height         : 42.0px;
+}
+.desktophd .crocuscardcopy5 .sprout .span3 {
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 34.0px;
+  color               : rgba(255, 196, 0, 1.0);
+  text-align          : justify;
+  line-height         : 42.0px;
+  text-decoration     : underline;
+}
+.desktophd .crocuscardcopy5 .sprout .span4 {
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 34.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : justify;
+  line-height         : 42.0px;
+}
+.desktophd .crocuscardcopy5 .buttoncopy2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 498px;
+  height              : 63px;
+  width               : 265px;
+  position            : absolute;
+  margin              : 0;
+  left                : 58px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophd .crocuscardcopy5 .buttoncopy2 .rectanglecopy {
+  background-color    : rgba(255, 196, 0, 1.0);
+  top                 : 0px;
+  height              : 63px;
+  width               : 265px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 31px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophd .crocuscardcopy5 .buttoncopy2 .a999u20acmonth {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 14px;
+  height              : 35px;
+  width               : 167px;
+  position            : absolute;
+  margin              : 0;
+  left                : 50px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 21.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.desktophd .crocuscardcopy5 .buttoncopy2 .a999u20acmonth .span1 {
+  text-align          : justify;
+  line-height         : 25.0px;
+}
+.desktophd .crocuscardcopy5 .buttoncopy2 .a999u20acmonth .span2 {
+  font-size           : 18.0px;
+  text-align          : justify;
+  line-height         : 22.0px;
+}
+.desktophd .crocuscardcopy5 .buttoncopy2 .a999u20acmonth .span3 {
+  text-align          : justify;
+  line-height         : 25.0px;
+}
+.desktophd .buttoncopy3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 4724px;
+  height              : 63px;
+  width               : 265px;
+  position            : absolute;
+  margin              : 0;
+  left                : 925px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophd .buttoncopy3 .rectanglecopy {
+  background-color    : rgba(255, 196, 0, 1.0);
+  top                 : 0px;
+  height              : 63px;
+  width               : 265px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 31px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophd .buttoncopy3 .a1499u20acmonth {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 15px;
+  height              : 34px;
+  width               : 181px;
+  position            : absolute;
+  margin              : 0;
+  left                : 43px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 21.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.desktophd .buttoncopy3 .a1499u20acmonth .span1 {
+  text-align          : justify;
+  line-height         : 25.0px;
+}
+.desktophd .buttoncopy3 .a1499u20acmonth .span2 {
+  font-size           : 18.0px;
+  text-align          : justify;
+  line-height         : 22.0px;
+}
+.desktophd .buttoncopy3 .a1499u20acmonth .span3 {
+  text-align          : justify;
+  line-height         : 25.0px;
+}
+.desktophd .group {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 4406px;
+  height              : 293px;
+  width               : 247px;
+  position            : absolute;
+  margin              : 0;
+  left                : 580px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophd .group .savedworld {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 249px;
+  position            : absolute;
+  margin              : 0;
+  left                : -1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 21.0px;
+  color               : rgba(0, 0, 0, 0.83);
+  text-align          : center;
+  line-height         : 25.0px;
+}
+.desktophd .group .a2m262toplant {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 65px;
+  height              : auto;
+  width               : 249px;
+  position            : absolute;
+  margin              : 0;
+  left                : -1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 21.0px;
+  color               : rgba(0, 0, 0, 0.83);
+  text-align          : center;
+  line-height         : 25.0px;
+}
+.desktophd .group .monthlyreport {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 131px;
+  height              : auto;
+  width               : 249px;
+  position            : absolute;
+  margin              : 0;
+  left                : -1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 21.0px;
+  color               : rgba(0, 0, 0, 0.83);
+  text-align          : center;
+  line-height         : 25.0px;
+}
+.desktophd .group .jarofhoney {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 197px;
+  height              : auto;
+  width               : 249px;
+  position            : absolute;
+  margin              : 0;
+  left                : -1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 21.0px;
+  color               : rgba(0, 0, 0, 0.83);
+  text-align          : center;
+  line-height         : 25.0px;
+}
+.desktophd .group .u2014 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 263px;
+  height              : auto;
+  width               : 249px;
+  position            : absolute;
+  margin              : 0;
+  left                : -1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 21.0px;
+  color               : rgba(0, 0, 0, 0.83);
+  text-align          : center;
+  line-height         : 25.0px;
+}
+.desktophd .group2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 4406px;
+  height              : 278px;
+  width               : 247px;
+  position            : absolute;
+  margin              : 0;
+  left                : 934px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophd .group2 .savedworld {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 249px;
+  position            : absolute;
+  margin              : 0;
+  left                : -1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 21.0px;
+  color               : rgba(0, 0, 0, 0.83);
+  text-align          : center;
+  line-height         : 25.0px;
+}
+.desktophd .group2 .a3m262toplant {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 62px;
+  height              : auto;
+  width               : 249px;
+  position            : absolute;
+  margin              : 0;
+  left                : -1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 21.0px;
+  color               : rgba(0, 0, 0, 0.83);
+  text-align          : center;
+  line-height         : 25.0px;
+}
+.desktophd .group2 .monthlyreportcopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 125px;
+  height              : auto;
+  width               : 249px;
+  position            : absolute;
+  margin              : 0;
+  left                : -1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 21.0px;
+  color               : rgba(0, 0, 0, 0.83);
+  text-align          : center;
+  line-height         : 25.0px;
+}
+.desktophd .group2 .exclusivecontentcopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 249px;
+  height              : auto;
+  width               : 249px;
+  position            : absolute;
+  margin              : 0;
+  left                : -1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 21.0px;
+  color               : rgba(0, 0, 0, 0.83);
+  text-align          : center;
+  line-height         : 25.0px;
+}
+.desktophd .group2 .jarofhoney {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 187px;
+  height              : auto;
+  width               : 249px;
+  position            : absolute;
+  margin              : 0;
+  left                : -1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 21.0px;
+  color               : rgba(0, 0, 0, 0.83);
+  text-align          : center;
+  line-height         : 25.0px;
+}
+.desktophd .rectangle1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 4268px;
+  height              : 83px;
+  width               : 124px;
+  position            : absolute;
+  margin              : 0;
+  left                : 768px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophd .optimal {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 4291px;
+  height              : auto;
+  width               : 81px;
+  position            : absolute;
+  margin              : 0;
+  left                : 801px;
+  -ms-transform       : rotate(33deg); /* IE 9 */
+  -webkit-transform   : rotate(33deg); /* Chrome, Safari, Opera */
+  transform           : rotate(33deg);
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 13.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 16.0px;
+}
+.desktophd .undrawmap1r69 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2982px;
+  height              : 403px;
+  width               : 513px;
+  position            : absolute;
+  margin              : 0;
+  left                : 858px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophd .group2copy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1809px;
+  height              : 85px;
+  width               : 68px;
+  position            : absolute;
+  margin              : 0;
+  left                : 268px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophd .group2copy .summer {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 43px;
+  height              : auto;
+  width               : 70px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 21.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 14.0px;
+}
+.desktophd .group2copy .summer .span1 {
+  text-align          : justify;
+  line-height         : 25.0px;
+}
+.desktophd .group2copy .summer .span2 {
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : justify;
+  line-height         : 18.0px;
+}
+.desktophd .group2copy .summer .span3 {
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 34.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : justify;
+  line-height         : 42.0px;
+}
+.desktophd .group2copy .sun {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 57px;
+  width               : 57px;
+  position            : absolute;
+  margin              : 0;
+  left                : 3px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophd .group2copy .sun .oval {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 20px;
+  height              : 18px;
+  width               : 19px;
+  position            : absolute;
+  margin              : 0;
+  left                : 19px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophd .group2copy .sun .rectangle3 {
+  background-color    : rgba(255, 237, 0, 1.0);
+  top                 : 26px;
+  height              : 6px;
+  width               : 16px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 3px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophd .group2copy .sun .rectanglecopy3 {
+  background-color    : rgba(255, 237, 0, 1.0);
+  top                 : 26px;
+  height              : 6px;
+  width               : 16px;
+  position            : absolute;
+  margin              : 0;
+  left                : 41px;
+  border-radius       : 3px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophd .group2copy .sun .rectanglecopy2 {
+  background-color    : rgba(255, 237, 0, 1.0);
+  top                 : 41px;
+  height              : 6px;
+  width               : 16px;
+  position            : absolute;
+  margin              : 0;
+  left                : 5px;
+  border-radius       : 3px;
+  -ms-transform       : rotate(-45deg); /* IE 9 */
+  -webkit-transform   : rotate(-45deg); /* Chrome, Safari, Opera */
+  transform           : rotate(-45deg);
+}
+.desktophd .group2copy .sun .rectanglecopy4 {
+  background-color    : rgba(255, 237, 0, 1.0);
+  top                 : 11px;
+  height              : 6px;
+  width               : 16px;
+  position            : absolute;
+  margin              : 0;
+  left                : 37px;
+  border-radius       : 3px;
+  -ms-transform       : rotate(-45deg); /* IE 9 */
+  -webkit-transform   : rotate(-45deg); /* Chrome, Safari, Opera */
+  transform           : rotate(-45deg);
+}
+.desktophd .group2copy .sun .rectanglecopy5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 11px;
+  height              : 6px;
+  width               : 16px;
+  position            : absolute;
+  margin              : 0;
+  left                : 6px;
+  -ms-transform       : rotate(45deg); /* IE 9 */
+  -webkit-transform   : rotate(45deg); /* Chrome, Safari, Opera */
+  transform           : rotate(45deg);
+}
+.desktophd .group2copy .sun .rectanglecopy6 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 41px;
+  height              : 6px;
+  width               : 16px;
+  position            : absolute;
+  margin              : 0;
+  left                : 37px;
+  -ms-transform       : rotate(45deg); /* IE 9 */
+  -webkit-transform   : rotate(45deg); /* Chrome, Safari, Opera */
+  transform           : rotate(45deg);
+}
+.desktophd .group2copy .sun .rectanglecopy7 {
+  background-color    : rgba(255, 237, 0, 1.0);
+  top                 : 46px;
+  height              : 6px;
+  width               : 16px;
+  position            : absolute;
+  margin              : 0;
+  left                : 21px;
+  border-radius       : 3px;
+  -ms-transform       : rotate(90deg); /* IE 9 */
+  -webkit-transform   : rotate(90deg); /* Chrome, Safari, Opera */
+  transform           : rotate(90deg);
+}
+.desktophd .group2copy .sun .rectanglecopy8 {
+  background-color    : rgba(255, 237, 0, 1.0);
+  top                 : 5px;
+  height              : 6px;
+  width               : 16px;
+  position            : absolute;
+  margin              : 0;
+  left                : 21px;
+  border-radius       : 3px;
+  -ms-transform       : rotate(90deg); /* IE 9 */
+  -webkit-transform   : rotate(90deg); /* Chrome, Safari, Opera */
+  transform           : rotate(90deg);
+}
+.desktophd .group2copy2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1816px;
+  height              : 85px;
+  width               : 68px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1316px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophd .group2copy2 .summer {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 43px;
+  height              : auto;
+  width               : 70px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 21.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 14.0px;
+}
+.desktophd .group2copy2 .summer .span1 {
+  text-align          : justify;
+  line-height         : 25.0px;
+}
+.desktophd .group2copy2 .summer .span2 {
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : justify;
+  line-height         : 18.0px;
+}
+.desktophd .group2copy2 .summer .span3 {
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 34.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : justify;
+  line-height         : 42.0px;
+}
+.desktophd .group2copy2 .sun {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 57px;
+  width               : 57px;
+  position            : absolute;
+  margin              : 0;
+  left                : 3px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophd .group2copy2 .sun .oval {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 20px;
+  height              : 18px;
+  width               : 19px;
+  position            : absolute;
+  margin              : 0;
+  left                : 19px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophd .group2copy2 .sun .rectangle3 {
+  background-color    : rgba(255, 237, 0, 1.0);
+  top                 : 26px;
+  height              : 6px;
+  width               : 16px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 3px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophd .group2copy2 .sun .rectanglecopy3 {
+  background-color    : rgba(255, 237, 0, 1.0);
+  top                 : 26px;
+  height              : 6px;
+  width               : 16px;
+  position            : absolute;
+  margin              : 0;
+  left                : 41px;
+  border-radius       : 3px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophd .group2copy2 .sun .rectanglecopy2 {
+  background-color    : rgba(255, 237, 0, 1.0);
+  top                 : 41px;
+  height              : 6px;
+  width               : 16px;
+  position            : absolute;
+  margin              : 0;
+  left                : 5px;
+  border-radius       : 3px;
+  -ms-transform       : rotate(-45deg); /* IE 9 */
+  -webkit-transform   : rotate(-45deg); /* Chrome, Safari, Opera */
+  transform           : rotate(-45deg);
+}
+.desktophd .group2copy2 .sun .rectanglecopy4 {
+  background-color    : rgba(255, 237, 0, 1.0);
+  top                 : 11px;
+  height              : 6px;
+  width               : 16px;
+  position            : absolute;
+  margin              : 0;
+  left                : 37px;
+  border-radius       : 3px;
+  -ms-transform       : rotate(-45deg); /* IE 9 */
+  -webkit-transform   : rotate(-45deg); /* Chrome, Safari, Opera */
+  transform           : rotate(-45deg);
+}
+.desktophd .group2copy2 .sun .rectanglecopy5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 11px;
+  height              : 6px;
+  width               : 16px;
+  position            : absolute;
+  margin              : 0;
+  left                : 6px;
+  -ms-transform       : rotate(45deg); /* IE 9 */
+  -webkit-transform   : rotate(45deg); /* Chrome, Safari, Opera */
+  transform           : rotate(45deg);
+}
+.desktophd .group2copy2 .sun .rectanglecopy6 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 41px;
+  height              : 6px;
+  width               : 16px;
+  position            : absolute;
+  margin              : 0;
+  left                : 37px;
+  -ms-transform       : rotate(45deg); /* IE 9 */
+  -webkit-transform   : rotate(45deg); /* Chrome, Safari, Opera */
+  transform           : rotate(45deg);
+}
+.desktophd .group2copy2 .sun .rectanglecopy7 {
+  background-color    : rgba(255, 237, 0, 1.0);
+  top                 : 46px;
+  height              : 6px;
+  width               : 16px;
+  position            : absolute;
+  margin              : 0;
+  left                : 21px;
+  border-radius       : 3px;
+  -ms-transform       : rotate(90deg); /* IE 9 */
+  -webkit-transform   : rotate(90deg); /* Chrome, Safari, Opera */
+  transform           : rotate(90deg);
+}
+.desktophd .group2copy2 .sun .rectanglecopy8 {
+  background-color    : rgba(255, 237, 0, 1.0);
+  top                 : 5px;
+  height              : 6px;
+  width               : 16px;
+  position            : absolute;
+  margin              : 0;
+  left                : 21px;
+  border-radius       : 3px;
+  -ms-transform       : rotate(90deg); /* IE 9 */
+  -webkit-transform   : rotate(90deg); /* Chrome, Safari, Opera */
+  transform           : rotate(90deg);
+}
+.desktophd .spring {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1817px;
+  height              : 70px;
+  width               : 73px;
+  position            : absolute;
+  margin              : 0;
+  left                : 625px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophd .spring .autumn {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 35px;
+  height              : auto;
+  width               : 75px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 21.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 14.0px;
+}
+.desktophd .spring .autumn .span1 {
+  text-align          : justify;
+  line-height         : 25.0px;
+}
+.desktophd .spring .autumn .span2 {
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : justify;
+  line-height         : 18.0px;
+}
+.desktophd .spring .autumn .span3 {
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 34.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : justify;
+  line-height         : 42.0px;
+}
+.desktophd .spring .rain {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 51px;
+  width               : 52px;
+  position            : absolute;
+  margin              : 0;
+  left                : 11px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophd .spring .rain .rectanglecopy2 {
+  background-color    : rgba(112, 112, 112, 1.0);
+  top                 : 36px;
+  height              : 6px;
+  width               : 14px;
+  position            : absolute;
+  margin              : 0;
+  left                : 3px;
+  border-radius       : 3px;
+  -ms-transform       : rotate(-56deg); /* IE 9 */
+  -webkit-transform   : rotate(-56deg); /* Chrome, Safari, Opera */
+  transform           : rotate(-56deg);
+}
+.desktophd .spring .rain .rectanglecopy4 {
+  background-color    : rgba(112, 112, 112, 1.0);
+  top                 : 32px;
+  height              : 6px;
+  width               : 14px;
+  position            : absolute;
+  margin              : 0;
+  left                : 14px;
+  border-radius       : 3px;
+  -ms-transform       : rotate(-59deg); /* IE 9 */
+  -webkit-transform   : rotate(-59deg); /* Chrome, Safari, Opera */
+  transform           : rotate(-59deg);
+}
+.desktophd .spring .rain .rectanglecopy5 {
+  background-color    : rgba(112, 112, 112, 1.0);
+  top                 : 40px;
+  height              : 6px;
+  width               : 14px;
+  position            : absolute;
+  margin              : 0;
+  left                : 20px;
+  border-radius       : 3px;
+  -ms-transform       : rotate(-58deg); /* IE 9 */
+  -webkit-transform   : rotate(-58deg); /* Chrome, Safari, Opera */
+  transform           : rotate(-58deg);
+}
+.desktophd .spring .rain .rectanglecopy6 {
+  background-color    : rgba(112, 112, 112, 1.0);
+  top                 : 32px;
+  height              : 6px;
+  width               : 14px;
+  position            : absolute;
+  margin              : 0;
+  left                : 32px;
+  border-radius       : 3px;
+  -ms-transform       : rotate(-57deg); /* IE 9 */
+  -webkit-transform   : rotate(-57deg); /* Chrome, Safari, Opera */
+  transform           : rotate(-57deg);
+}
+.desktophd .spring .rain .cloud {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 29px;
+  width               : 51px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophd .spring .rain .cloud .rectanglecopy3 {
+  background-color    : rgba(112, 112, 112, 1.0);
+  top                 : 13px;
+  height              : 15px;
+  width               : 49px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  border-radius       : 7px;
+  -ms-transform       : rotate(-1deg); /* IE 9 */
+  -webkit-transform   : rotate(-1deg); /* Chrome, Safari, Opera */
+  transform           : rotate(-1deg);
+}
+.desktophd .spring .rain .cloud .oval {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 3px;
+  height              : 17px;
+  width               : 19px;
+  position            : absolute;
+  margin              : 0;
+  left                : 6px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophd .spring .rain .cloud .ovalcopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 15px;
+  width               : 15px;
+  position            : absolute;
+  margin              : 0;
+  left                : 17px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophd .spring .rain .cloud .ovalcopy2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 6px;
+  height              : 15px;
+  width               : 15px;
+  position            : absolute;
+  margin              : 0;
+  left                : 27px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophd .undrawgiftcard6ekc {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 3527px;
+  height              : 368px;
+  width               : 513px;
+  position            : absolute;
+  margin              : 0;
+  left                : 61px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophd .rectangle2 {
+  background-color    : rgba(255, 196, 0, 1.0);
+  top                 : 5070px;
+  height              : 116px;
+  width               : 1440px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophd .sunflower {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1809px;
+  height              : 235px;
+  width               : 204px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1137px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.desktophd .marigoldfoundationcalgary {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1809px;
+  height              : 227px;
+  width               : 195px;
+  position            : absolute;
+  margin              : 0;
+  left                : 454px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+.anima-valign-text-middle {
+  display             : flex;
+  flex-direction      : column;
+  justify-content     : center;
+}

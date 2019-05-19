@@ -16,15 +16,17 @@ class Main extends React.PureComponent {
 
     this.state = {
       infoboxMessage: '',
+      link: '',
       isInfoboxVisible: false,
       markerLang: 0,
       markerLat: 0
     }
   }
 
-  handleMarkerClick = (message, lang, lat) => {
+  handleMarkerClick = (message, link, lang, lat) => {
     this.setState({
       infoboxMessage: message, // Message shown in info window
+      link: link,
       isInfoboxVisible: !this.state.isInfoboxVisible, // Show info window
       markerLang: lang + 0.006, // Y coordinate for positioning info window
       markerLat: lat - 0.0004 // X coordinate for positioning info window
@@ -45,6 +47,7 @@ class Main extends React.PureComponent {
           loadingElement={<div style={{ height: `100%` }} />}
           containerElement={<div style={{ height: `100%` }} />}
           mapElement={<div style={{ height: `100%` }} />}
+          link = {this.state.link}
           isInfoboxVisible={this.state.isInfoboxVisible} // Show/hide info window
           infoboxMessage={this.state.infoboxMessage} // Message shown in info window
           handleInfoboxClick={this.handleInfoboxClick} // Handle closing of the info window

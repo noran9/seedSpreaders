@@ -1,5 +1,6 @@
 import * as React from 'react'
 import LocationIcon from './loc.png'
+import { BrowserRouter as Router, Route, Link } from "react-router-dom";
 
 // Import necessary components for React Google Maps
 import {
@@ -41,9 +42,10 @@ const GoogleMapComponentWithMarker = withScriptjs(
           lat: 46.052093, // latitude for the center of the map
           lng: 14.467158 // longitude to position the marker
         }}
-        onClick={(message, lang, lat) =>
+        onClick={(message, link, lang, lat) =>
           props.handleMarkerClick(
             'Read more for this location:',
+            '/single',
             46.052093,
             14.467158
           )
@@ -60,6 +62,11 @@ const GoogleMapComponentWithMarker = withScriptjs(
         >
           <div>
             <p className="Lead">{props.infoboxMessage}</p>
+            <div className="btn btn-dark" >
+            <Link to={props.link}>
+            Check location
+            </Link>
+            </div>
           </div>
         </InfoWindow>
       )}
